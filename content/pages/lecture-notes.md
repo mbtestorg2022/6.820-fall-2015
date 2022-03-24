@@ -80,7 +80,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hindley-Milner Type Inference and Polymorphic Types (PDF)]({{< baseurl >}}/resources/mit6_820f15_l06)
+[Hindley-Milner Type Inference and Polymorphic Types (PDF)]({{< baseurl >}}/resources/mit6_820f15_l06)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +182,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Axiomatic Semantics for Concurrency: Rely-Guarantee & Concurrent Separation Logic (PDF)]({{< baseurl >}}/resources/mit6_820f15_l16)
+[Axiomatic Semantics for Concurrency: Rely-Guarantee & Concurrent Separation Logic (PDF)]({{< baseurl >}}/resources/mit6_820f15_l16)
 {{< tdclose >}}
 
 {{< trclose >}}

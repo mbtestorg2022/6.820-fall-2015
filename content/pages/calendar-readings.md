@@ -43,7 +43,7 @@ Some interesting reading about the genesis of functional programming:
 
 Backus, John. "[Can Programming be Liberated from the Von Neumann Style? A Functional Style and its Algebra of Programs](http://dx.doi.org/10.1145/359576.359579)." _Magazine Communications of the ACM_ 8, no. 21 (1978): 613–41.
 
-Hudak, Hughes, Peyton Jones, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A History of Haskell: Being Lazy With Class." (PDF)](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/) 2007.
+Hudak, Hughes, Peyton Jones, et al. ["A History of Haskell: Being Lazy With Class." (PDF)](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/) 2007.
 
 
 {{< tdclose >}}
@@ -252,7 +252,7 @@ Intro to Axiomatic Semantics
 {{< tdopen >}}
 
 
-Floyd, Robert. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Assigning Meanings to Programs." (PDF)](http://www.eecs.berkeley.edu/~necula/Papers/FloydMeaning.pdf)
+Floyd, Robert. ["Assigning Meanings to Programs." (PDF)](http://www.eecs.berkeley.edu/~necula/Papers/FloydMeaning.pdf)
 
 
 {{< tdclose >}}
